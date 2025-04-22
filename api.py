@@ -9,13 +9,6 @@ import os, uuid, requests, redis, json
 # Load env vars
 load_dotenv()
 
-# Redis setup
-r = redis.StrictRedis(
-    host=os.getenv("REDIS_HOST"),
-    port=int(os.getenv("REDIS_PORT")),
-    password=os.getenv("REDIS_PASSWORD"),
-    decode_responses=True
-)
 # -------------------------------------------------
 # FastAPI instance & CORS
 # -------------------------------------------------
@@ -76,6 +69,11 @@ def chat(
 
 @app.get("/history", response_model=HistoryResponse)
 def history(session_id: Optional[str] = Cookie(default=None)):
-    if not session_id or session_id not in sessions.sessions:
+    if not session_id or not sessions._load(session_id):
         return {"history": []}
-    return {"history": sessions.sessions[session_id]}
+    return {"history": sessions._load(session_id)}
+
+
+@app.get("/")
+def root():
+    return {"status": "ok"}
