@@ -1,0 +1,674 @@
+[
+    {
+      "Type": "Oficina",
+      "Price": "$511.073/m² MXN",
+      "Size": "498 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Corporativo Newton"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$420.1/m² MXN",
+      "Size": "1,302 m²",
+      "Location": "Polanco I Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Avenida Jaime Balmes 11"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$280.1/m² MXN",
+      "Size": "765 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Horacio 1844"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$440/m² MXN",
+      "Size": "1,328 m²",
+      "Location": "Polanco I Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Calle Jaime Balmes 11"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$400/m² MXN",
+      "Size": "3,267 m²",
+      "Location": "Polanco I Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Torre Prisma"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$541.136/m² MXN",
+      "Size": "1,350 m²",
+      "Location": "Polanco I Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Corporativo Lagrange"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$501.052/m² MXN",
+      "Size": "633 m²",
+      "Location": "Polanco I Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Plaza Polanco-torre C"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$501.052/m² MXN",
+      "Size": "754 m²",
+      "Location": "Polanco I Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Corporativo Polanco"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$604.2/m² MXN",
+      "Size": "120 m²",
+      "Location": "Polanco III Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Campos Eliseos Y Moliere 10"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$1,196.7/m² MXN",
+      "Size": "11 m²",
+      "Location": "Polanco II Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Renta De Oficina En"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$350/m² MXN",
+      "Size": "850 m²",
+      "Location": "Granada, Miguel Hidalgo, Ciudad de México",
+      "Name": "Torre Yumal"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$950/m² MXN",
+      "Size": "1,240 m²",
+      "Location": "Polanco I Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Plaza Polanco"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$475/m² MXN",
+      "Size": "3,780 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Homero 440"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$353/m² MXN",
+      "Size": "1,200 m²",
+      "Location": "Granada, Miguel Hidalgo, Ciudad de México",
+      "Name": "Ejército Nacional 718"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$360/m² MXN",
+      "Size": "4,250 m²",
+      "Location": "Granada, Miguel Hidalgo, Ciudad de México",
+      "Name": "Ejército Nacional 926"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$511/m² MXN",
+      "Size": "450 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Ejército Nacional 324"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$217/m² MXN",
+      "Size": "2,000 m²",
+      "Location": "Polanco IV Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Galileo 317"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$2,000/m² MXN",
+      "Size": "79 m²",
+      "Location": "Polanco II Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Coworking Moliere"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$2,000/m² MXN",
+      "Size": "98 m²",
+      "Location": "Polanco II Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Coworking Campos Eliseos"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$2,000/m² MXN",
+      "Size": "536 m²",
+      "Location": "Reforma Social, Miguel Hidalgo, Ciudad de México",
+      "Name": "Coworking Periferico 156"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$641.346/m² MXN",
+      "Size": "192 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Forum Polanco"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$481.01/m² MXN",
+      "Size": "11,796 m²",
+      "Location": "Polanco I Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Blas Pascal"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$1,250/m² MXN",
+      "Size": "20 m²",
+      "Location": "Polanco IV Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Homero"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$350/m² MXN",
+      "Size": "310 m²",
+      "Location": "Granada, Miguel Hidalgo, Ciudad de México",
+      "Name": "Torre Yumal"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$340/m² MXN",
+      "Size": "850 m²",
+      "Location": "Polanco II Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Avenida Ejército Nacional Mexicano 926"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$300/m² MXN",
+      "Size": "7,980 m²",
+      "Location": "Polanco I Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Homero 1804"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$448/m² MXN",
+      "Size": "243 m²",
+      "Location": "Polanco I Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Plaza Polanco"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$430/m² MXN",
+      "Size": "2,208 m²",
+      "Location": "Polanco I Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Corporativo Polanco"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$635/m² MXN",
+      "Size": "1,016 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Torre Polanco"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$450/m² MXN",
+      "Size": "2,880 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Torcuato Tasso 245"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$80,000/m² MXN",
+      "Size": "220 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Torcuato Tasso Polanco"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$700/m² MXN",
+      "Size": "200 m²",
+      "Location": "Polanco III Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Campos Eliseos 385"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$296.7/m² MXN",
+      "Size": "300 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Arquímides 199"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$368.4/m² MXN",
+      "Size": "190 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Newton 33"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$7.3/m² MXN",
+      "Size": "136,825 m²",
+      "Location": "Polanco IV Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Avenida Horacio 804"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$333.3/m² MXN",
+      "Size": "240 m²",
+      "Location": "Polanco I Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Avenida Ejército Nacional Mexicano 1136"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$352.9/m² MXN",
+      "Size": "170 m²",
+      "Location": "Granada, Miguel Hidalgo, Ciudad de México",
+      "Name": "Avenida Ejército Nacional Mexicano 718"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$533.3/m² MXN",
+      "Size": "150 m²",
+      "Location": "Granada, Miguel Hidalgo, Ciudad de México",
+      "Name": "Avenida Ejército Nacional Mexicano 718"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$291.7/m² MXN",
+      "Size": "240 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Avenida Homero 404"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$380/m² MXN",
+      "Size": "170 m²",
+      "Location": "Industrial Alce Blanco, Naucalpan de Juárez, Naucalpan de Juárez",
+      "Name": "Jaime Balmis 11"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$196.7/m² MXN",
+      "Size": "300 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Avenida Ejército Nacional Mexicano 402"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$701.472/m² MXN",
+      "Size": "2,000 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Torre Omega"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$526.3/m² MXN",
+      "Size": "95 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Moliere 13"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$276.8/m² MXN",
+      "Size": "233 m²",
+      "Location": "Polanco I Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Horacio 1844"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$262.2/m² MXN",
+      "Size": "286 m²",
+      "Location": "Reforma Social, Miguel Hidalgo, Ciudad de México",
+      "Name": "Av. Tecamachalco 165"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$360/m² MXN",
+      "Size": "4,600 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Lamartine 238"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$292.7/m² MXN",
+      "Size": "205 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Avenida Homero 1425"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$420/m² MXN",
+      "Size": "8,745 m²",
+      "Location": "Polanco IV Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Arquimedes 130"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$533.3/m² MXN",
+      "Size": "150 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Torcuato Tassso Polanco 1"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$863.6/m² MXN",
+      "Size": "55 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Homero 716"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$340/m² MXN",
+      "Size": "200 m²",
+      "Location": "Polanco I Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Jaime Balmes 71"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$280.2/m² MXN",
+      "Size": "430 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Ejercito Nacional"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$631.6/m² MXN",
+      "Size": "95 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Moliere"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$276.8/m² MXN",
+      "Size": "233 m²",
+      "Location": "Polanco I Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Horacio"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$541.136/m² MXN",
+      "Size": "3,264 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Masaryk 111"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$541.136/m² MXN",
+      "Size": "531 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Masaryk 169"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$1,250/m² MXN",
+      "Size": "20 m²",
+      "Location": "Polanco IV Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Homero 716"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$571/m² MXN",
+      "Size": "70 m²",
+      "Location": "Polanco III Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Anatole France 145"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$681.43/m² MXN",
+      "Size": "10,972 m²",
+      "Location": "Polanco IV Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Centro Corporativo Forum"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$701.472/m² MXN",
+      "Size": "32,960 m²",
+      "Location": "Polanco III Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Edificio Omega"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$541.136/m² MXN",
+      "Size": "5,514 m²",
+      "Location": "Polanco IV Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Corporativo Campos Elíseos"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$429/m² MXN",
+      "Size": "8,000 m²",
+      "Location": "Polanco I Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Homero 1500"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$259/m² MXN",
+      "Size": "5,479 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Masaryk 17"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$541.136/m² MXN",
+      "Size": "21,615 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Dos Patios Corporativo"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$531.115/m² MXN",
+      "Size": "54,132 m²",
+      "Location": "Polanco I Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Puerta Polanco"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$346/m² MXN",
+      "Size": "827 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Schiller 148"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$400/m² MXN",
+      "Size": "2,874 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Francisco Petrarca 321"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$317/m² MXN",
+      "Size": "1,318 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Homero 404"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$417/m² MXN",
+      "Size": "818 m²",
+      "Location": "Polanco I Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Ejército Nacional 1136"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$501.052/m² MXN",
+      "Size": "6,760 m²",
+      "Location": "Polanco IV Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Plaza Arquímedes"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$400/m² MXN",
+      "Size": "11,200 m²",
+      "Location": "Polanco I Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Plaza Polanco-torre B"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$429/m² MXN",
+      "Size": "18,777 m²",
+      "Location": "Polanco I Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Work Polanco"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$425/m² MXN",
+      "Size": "4,900 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Suderman 404"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$282/m² MXN",
+      "Size": "4,000 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Newton 286"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$420/m² MXN",
+      "Size": "4,520 m²",
+      "Location": "Polanco III Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Ejército Nacional 676"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$420/m² MXN",
+      "Size": "1,342 m²",
+      "Location": "Polanco I Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Plaza Polanco-torre A."
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$350/m² MXN",
+      "Size": "2,160 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Lope De Vega 117"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$400/m² MXN",
+      "Size": "200 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Homero #430"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$863.6/m² MXN",
+      "Size": "55 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Homero 716"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$1,005.4/m² MXN",
+      "Size": "184 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Edgar Allan Poe 119"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$280/m² MXN",
+      "Size": "300 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Arquímides"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$368.4/m² MXN",
+      "Size": "190 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Newton"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$604.2/m² MXN",
+      "Size": "120 m²",
+      "Location": "Polanco III Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Campos Eliseos Y Moliere"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$340/m² MXN",
+      "Size": "200 m²",
+      "Location": "Polanco I Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Jaime Balmes"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$574.5/m² MXN",
+      "Size": "322 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Eugenio Sue"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$420/m² MXN",
+      "Size": "8,745 m²",
+      "Location": "Polanco IV Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Arquimedes"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$2,800/m² MXN",
+      "Size": "15 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Newton #186"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$360/m² MXN",
+      "Size": "250 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Torcuato Tasso #325"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$364.4/m² MXN",
+      "Size": "550 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Av. Sudermann #131"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$425/m² MXN",
+      "Size": "400 m²",
+      "Location": "Polanco IV Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Sofocles #127"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$761.6/m² MXN",
+      "Size": "150 m²",
+      "Location": "Polanco IV Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Goldsmith #38 N6-of11"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$433.3/m² MXN",
+      "Size": "90 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Av. Ejército Nacional #598 Of. 401"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$369.8/m² MXN",
+      "Size": "265 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Av. Ejército Nacional #598 Of. 500"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$400/m² MXN",
+      "Size": "90 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Av. Ejército Nacional #598 Of. 400"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$500/m² MXN",
+      "Size": "130 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Av. Ejército Nacional #598 Of. 302"
+    },
+    {
+      "Type": "Oficina",
+      "Price": "$404.5/m² MXN",
+      "Size": "220 m²",
+      "Location": "Polanco V Sección, Miguel Hidalgo, Ciudad de México",
+      "Name": "Av. Ejército Nacional #598 Of. 201"
+    }
+  ]

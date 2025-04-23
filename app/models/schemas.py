@@ -4,7 +4,6 @@ from pydantic import BaseModel
 
 class ChatRequest(BaseModel):
     message: str
-    session_id: str # Delete after
     
 class ChatResponse(BaseModel):
     response: str
